@@ -1,0 +1,14 @@
+C:\Users\Support\source\repos\Triangle\obj\Debug\net7.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfo.cs
+C:\Users\Support\source\repos\Triangle\obj\Debug\net7.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\Triangle\bin\Debug\net7.0\Triangle.exe
+C:\Users\Support\source\repos\Triangle\bin\Debug\net7.0\Triangle.deps.json
+C:\Users\Support\source\repos\Triangle\bin\Debug\net7.0\Triangle.runtimeconfig.json
+C:\Users\Support\source\repos\Triangle\bin\Debug\net7.0\Triangle.dll
+C:\Users\Support\source\repos\Triangle\bin\Debug\net7.0\Triangle.pdb
+C:\Users\Support\source\repos\Triangle\obj\Debug\net7.0\Triangle.dll
+C:\Users\Support\source\repos\Triangle\obj\Debug\net7.0\refint\Triangle.dll
+C:\Users\Support\source\repos\Triangle\obj\Debug\net7.0\Triangle.pdb
+C:\Users\Support\source\repos\Triangle\obj\Debug\net7.0\Triangle.genruntimeconfig.cache
+C:\Users\Support\source\repos\Triangle\obj\Debug\net7.0\ref\Triangle.dll
